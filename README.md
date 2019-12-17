@@ -1,6 +1,6 @@
 # Terrain-Generation
 
-Usage
+#Usage
 python3 TerrainPerlinNoise.py
 
 Example
